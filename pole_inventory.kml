@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Pole Inventory</name>
+  <Style id="poleStyle">
+    <IconStyle><color>ff00aaff</color><scale>0.8</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon></IconStyle>
+    <LabelStyle><scale>0.7</scale></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>ID:1 H:10.6m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 1</h3>
+          <p>Height: <b>10.6 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.91 m</td></b></tr><tr><td>Primary</td><b><td>10.62 m</td></b></tr><tr><td>Neutral</td><b><td>6.22 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2641125,42.0903982,206.12</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:2 H:15.7m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 2</h3>
+          <p>Height: <b>15.7 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>7.96 m</td></b></tr><tr><td>Downguy</td><b><td>4.24 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2642248,42.0881005,210.96</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:3 H:10.4m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 3</h3>
+          <p>Height: <b>10.4 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.79 m</td></b></tr><tr><td>Transformer</td><b><td>6.96 m</td></b></tr><tr><td>Primary</td><b><td>10.24 m</td></b></tr><tr><td>Neutral</td><b><td>5.66 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2639731,42.0884319,205.96</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:4 H:11.8m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 4</h3>
+          <p>Height: <b>11.8 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>10.98 m</td></b></tr><tr><td>Secondary</td><b><td>7.01 m</td></b></tr><tr><td>Primary</td><b><td>10.88 m</td></b></tr><tr><td>Neutral</td><b><td>6.18 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2640445,42.0893723,207.55</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:5 H:9.1m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 5</h3>
+          <p>Height: <b>9.1 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2640900,42.0894467,205.01</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:6 H:8.9m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 6</h3>
+          <p>Height: <b>8.9 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2643282,42.0893486,204.06</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:7 H:11.8m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 7</h3>
+          <p>Height: <b>11.8 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>11.10 m</td></b></tr><tr><td>Secondary</td><b><td>8.87 m</td></b></tr><tr><td>Primary</td><b><td>10.22 m</td></b></tr><tr><td>Neutral</td><b><td>5.74 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2640673,42.0897412,207.47</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:8 H:9.0m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 8</h3>
+          <p>Height: <b>9.0 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>8.64 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2643540,42.0897006,204.79</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:9 H:11.4m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 9</h3>
+          <p>Height: <b>11.4 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>10.65 m</td></b></tr><tr><td>Transformer</td><b><td>7.78 m</td></b></tr><tr><td>Primary</td><b><td>10.69 m</td></b></tr><tr><td>Neutral</td><b><td>6.13 m</td></b></tr><tr><td>Downguy</td><b><td>3.75 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2640891,42.0900802,207.20</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:10 H:10.5m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 10</h3>
+          <p>Height: <b>10.5 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.90 m</td></b></tr><tr><td>Primary</td><b><td>10.52 m</td></b></tr><tr><td>Neutral</td><b><td>6.32 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2641315,42.0907250,206.12</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:11 H:9.4m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 11</h3>
+          <p>Height: <b>9.4 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>8.84 m</td></b></tr><tr><td>Primary</td><b><td>10.76 m</td></b></tr><tr><td>Neutral</td><b><td>6.64 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2641560,42.0910695,204.94</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:12 H:8.8m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 12</h3>
+          <p>Height: <b>8.8 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>8.43 m</td></b></tr><tr><td>Primary</td><b><td>10.74 m</td></b></tr><tr><td>Neutral</td><b><td>6.08 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2641759,42.0913993,204.39</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:13 H:10.4m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 13</h3>
+          <p>Height: <b>10.4 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.95 m</td></b></tr><tr><td>Primary</td><b><td>11.14 m</td></b></tr><tr><td>Neutral</td><b><td>6.78 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2642408,42.0923740,205.93</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:14 H:10.3m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 14</h3>
+          <p>Height: <b>10.3 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.51 m</td></b></tr><tr><td>Secondary</td><b><td>5.88 m</td></b></tr><tr><td>Primary</td><b><td>8.96 m</td></b></tr><tr><td>Neutral</td><b><td>5.38 m</td></b></tr><tr><td>Downguy</td><b><td>3.26 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2642616,42.0927036,205.96</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:15 H:8.7m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 15</h3>
+          <p>Height: <b>8.7 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>5.88 m</td></b></tr><tr><td>Downguy</td><b><td>3.56 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2646666,42.0926023,204.34</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:16 H:9.3m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 16</h3>
+          <p>Height: <b>9.3 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>8.96 m</td></b></tr><tr><td>Primary</td><b><td>11.36 m</td></b></tr><tr><td>Neutral</td><b><td>6.52 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2643038,42.0933681,204.93</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:17 H:10.3m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 17</h3>
+          <p>Height: <b>10.3 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.65 m</td></b></tr><tr><td>Secondary</td><b><td>8.27 m</td></b></tr><tr><td>Primary</td><b><td>11.76 m</td></b></tr><tr><td>Neutral</td><b><td>7.59 m</td></b></tr><tr><td>Downguy</td><b><td>5.28 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2643227,42.0936904,205.96</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:18 H:8.6m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 18</h3>
+          <p>Height: <b>8.6 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>8.06 m</td></b></tr><tr><td>Neutral</td><b><td>9.45 m</td></b></tr><tr><td>Downguy</td><b><td>5.04 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2646128,42.0936950,204.38</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:19 H:11.7m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 19</h3>
+          <p>Height: <b>11.7 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>11.22 m</td></b></tr><tr><td>Transformer</td><b><td>8.80 m</td></b></tr><tr><td>Primary</td><b><td>10.30 m</td></b></tr><tr><td>Neutral</td><b><td>6.10 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2642823,42.0930438,207.47</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:20 H:11.8m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 20</h3>
+          <p>Height: <b>11.8 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>11.20 m</td></b></tr><tr><td>Primary</td><b><td>11.14 m</td></b></tr><tr><td>Neutral</td><b><td>6.60 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2643472,42.0940422,207.40</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:21 H:11.7m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 21</h3>
+          <p>Height: <b>11.7 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>10.98 m</td></b></tr><tr><td>Secondary</td><b><td>7.30 m</td></b></tr><tr><td>Primary</td><b><td>10.62 m</td></b></tr><tr><td>Neutral</td><b><td>6.56 m</td></b></tr><tr><td>Downguy</td><b><td>4.58 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2643679,42.0943733,207.18</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:22 H:9.0m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 22</h3>
+          <p>Height: <b>9.0 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>7.40 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2646467,42.0942991,204.29</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:23 H:12.0m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 23</h3>
+          <p>Height: <b>12.0 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>11.48 m</td></b></tr><tr><td>Secondary</td><b><td>5.53 m</td></b></tr><tr><td>Transformer</td><b><td>9.09 m</td></b></tr><tr><td>Primary</td><b><td>9.82 m</td></b></tr><tr><td>Neutral</td><b><td>5.76 m</td></b></tr><tr><td>Downguy</td><b><td>3.64 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2643948,42.0947072,207.46</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:24 H:7.2m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 24</h3>
+          <p>Height: <b>7.2 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>5.72 m</td></b></tr><tr><td>Downguy</td><b><td>5.08 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2646659,42.0945910,202.48</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:25 H:11.5m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 25</h3>
+          <p>Height: <b>11.5 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>11.08 m</td></b></tr><tr><td>Primary</td><b><td>11.12 m</td></b></tr><tr><td>Neutral</td><b><td>7.08 m</td></b></tr><tr><td>Downguy</td><b><td>4.12 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2644137,42.0950355,207.07</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:26 H:7.4m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 26</h3>
+          <p>Height: <b>7.4 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>5.77 m</td></b></tr><tr><td>Neutral</td><b><td>10.72 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2646852,42.0948895,202.63</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:27 H:10.3m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 27</h3>
+          <p>Height: <b>10.3 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Primary</td><b><td>11.60 m</td></b></tr><tr><td>Neutral</td><b><td>7.12 m</td></b></tr><tr><td>Downguy</td><b><td>4.60 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2644769,42.0960338,205.78</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:28 H:10.0m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 28</h3>
+          <p>Height: <b>10.0 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.31 m</td></b></tr><tr><td>Secondary</td><b><td>6.51 m</td></b></tr><tr><td>Transformer</td><b><td>7.49 m</td></b></tr><tr><td>Primary</td><b><td>10.20 m</td></b></tr><tr><td>Neutral</td><b><td>6.32 m</td></b></tr><tr><td>Downguy</td><b><td>4.12 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2644963,42.0963474,205.40</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:29 H:10.3m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 29</h3>
+          <p>Height: <b>10.3 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.98 m</td></b></tr><tr><td>Primary</td><b><td>11.10 m</td></b></tr><tr><td>Neutral</td><b><td>7.04 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2644330,42.0953643,205.78</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:30 H:10.5m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 30</h3>
+          <p>Height: <b>10.5 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>9.96 m</td></b></tr><tr><td>Primary</td><b><td>12.06 m</td></b></tr><tr><td>Neutral</td><b><td>7.71 m</td></b></tr><tr><td>Downguy</td><b><td>5.08 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2644551,42.0957035,206.09</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:31 H:7.5m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 31</h3>
+          <p>Height: <b>7.5 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>6.57 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2647755,42.0964039,202.94</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:32 H:9.9m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 32</h3>
+          <p>Height: <b>9.9 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>8.78 m</td></b></tr><tr><td>Secondary</td><b><td>7.50 m</td></b></tr><tr><td>Primary</td><b><td>10.76 m</td></b></tr><tr><td>Neutral</td><b><td>6.18 m</td></b></tr><tr><td>Downguy</td><b><td>3.76 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2645191,42.0967072,205.30</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:33 H:7.3m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 33</h3>
+          <p>Height: <b>7.3 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2647039,42.0951935,202.66</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:34 H:10.2m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 34</h3>
+          <p>Height: <b>10.2 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>7.98 m</td></b></tr><tr><td>Neutral</td><b><td>7.44 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2647985,42.0967365,205.47</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:35 H:12.1m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 35</h3>
+          <p>Height: <b>12.1 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Crossarm</td><b><td>11.48 m</td></b></tr><tr><td>Primary</td><b><td>10.81 m</td></b></tr><tr><td>Neutral</td><b><td>5.72 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2645477,42.0970242,207.92</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:36 H:9.1m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 36</h3>
+          <p>Height: <b>9.1 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Secondary</td><b><td>8.65 m</td></b></tr><tr><td>Neutral</td><b><td>8.66 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2649422,42.0970515,204.43</coordinates>
+    </Point>
+  </Placemark>  <Placemark>
+    <name>ID:37 H:12.1m</name>
+    <description><![CDATA[
+        <div style="font-family:Arial; min-width:150px">
+          <h3>Pole 37</h3>
+          <p>Height: <b>12.1 m</b></p>
+          <table border="1" cellpadding="3" style="border-collapse:collapse; width:100%">
+            <tr bgcolor="#eee"><th>Component</th><th>Height (AGL)</th></tr>
+            <tr><td>Primary</td><b><td>11.88 m</td></b></tr><tr><td>Neutral</td><b><td>8.32 m</td></b></tr><tr><td>Downguy</td><b><td>5.66 m</td></b></tr>
+          </table>
+        </div>
+        ]]></description>
+    <styleUrl>#poleStyle</styleUrl>
+    <Point>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>7.2650423,42.0971939,207.11</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

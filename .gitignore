@@ -1,0 +1,8 @@
+*.las
+*.laz
+*.npz
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+node_modules/
+.DS_Store
